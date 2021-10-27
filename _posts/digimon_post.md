@@ -137,7 +137,7 @@ with open("./digimon.csv", "r") as file:
 ~~~
 
 ## Notes 
-To write this code I consulted my notes from previous assignments’ functions and spoke with my teacher, Feingold, and with Divya Ponda (from Mr. Lee’s Art of Data class).
+To write this code I consulted my notes from previous assignments’ functions and spoke with my teacher, and with Divya Ponda (from Mr. Lee’s Art of Data class).
 
 I definitely had some difficulty with the code, thinking that we were supposed to use nested dictionaries in each function. After that was cleared up I found that the pseudocode was not that difficult to write but it took me a few tries to fully understand the proper syntax. Beyond the syntax I also learned and had a lot of practice reading error codes. 
 All in all though, I am very happy with how my code turned out!
