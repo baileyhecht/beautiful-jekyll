@@ -104,8 +104,8 @@ navbar-text-col: "#D282A0" #Pink
 navbar-border-col: "#ffffff" #White
 page-col: "#000000" #Black
 text-col: "#82CAD2" #Teal
-link-col: "#82CAD2" #Teal
-hover-col: "#D282A0" #Pink
+link-col: "#AC87C1" #Purple
+hover-col: "#AC87C1" #Purple
 footer-col: "#000000" #Black
 footer-text-col: "#D282A0" #Pink
 footer-link-col: "#D282A0" #Pink
