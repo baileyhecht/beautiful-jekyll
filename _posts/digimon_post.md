@@ -3,7 +3,7 @@ layout: post
 title: Digimon Lab
 subtitle: A breif explination of my code
 gh-repo: daattali/beautiful-jekyll
-tags: [lab, digimon, I hope this works, digimonname is superior]
+tags: [lab, digimon, I hope this works, Botamon is superior]
 comments: true
 ---
 
@@ -142,6 +142,5 @@ To write this code I consulted my notes from previous assignments’ functions a
 I definitely had some difficulty with the code, thinking that we were supposed to use nested dictionaries in each function. After that was cleared up I found that the pseudocode was not that difficult to write but it took me a few tries to fully understand the proper syntax. Beyond the syntax I also learned and had a lot of practice reading error codes. 
 All in all though, I am very happy with how my code turned out!
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Most importaintly though, my favorite Digimon is hands down Botamon
+![Botamon](https://postimg.cc/FYGd0Kg5)
