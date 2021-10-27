@@ -3,7 +3,7 @@ layout: post
 title: Digimon Lab
 subtitle: A breif explination of my code
 gh-repo: daattali/beautiful-jekyll
-tags: [test]
+tags: [lab, digimon, I hope this works, digimonname is superior]
 comments: true
 ---
 
