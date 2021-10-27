@@ -146,4 +146,4 @@ Most importaintly though, my favorite Digimon is hands down Botamon
 
 ![Botamon](https://user-images.githubusercontent.com/91275863/139144365-0829cfe5-70d2-4526-b3be-eb3e4a20cf8f.png)
 
-This fluffy little void's main attack is blowing bubbles to intimidate their opponents. For more information check out thier [DigimonWiki page](https://digimon.fandom.com/wiki/Botamon)
+This fluffy little void's main attack is blowing bubbles to intimidate their opponents. For more information check out their [DigimonWiki page](https://digimon.fandom.com/wiki/Botamon)
