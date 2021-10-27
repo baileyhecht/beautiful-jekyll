@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digimon Lab
-subtitle: A breif explination of my code
+subtitle: A brief explanation of my code
 gh-repo: daattali/beautiful-jekyll
 tags: [lab, digimon, I hope this works, Botamon is superior]
 comments: true
@@ -137,12 +137,12 @@ with open("./digimon.csv", "r") as file:
 ~~~
 
 ## Notes 
-To write this code I consulted my notes from previous assignments’ functions and spoke with my teacher, and with Divya Ponda (from Mr. Lee’s Art of Data class).
+To write this code I consulted my notes from previous assignments’ functions and spoke with my teacher, and with Divya Ponda (from Mr. Lee’s Art of Data class). I also used [this video](https://youtu.be/4OX49nLNPEE) to understand how to use user input.
 
 I definitely had some difficulty with the code, thinking that we were supposed to use nested dictionaries in each function. After that was cleared up I found that the pseudocode was not that difficult to write but it took me a few tries to fully understand the proper syntax. Beyond the syntax I also learned and had a lot of practice reading error codes. 
 All in all though, I am very happy with how my code turned out!
 
-Most importaintly though, my favorite Digimon is hands down Botamon
+Most importantly though, my favorite Digimon is hands down Botamon
 
 ![Botamon](https://user-images.githubusercontent.com/91275863/139144365-0829cfe5-70d2-4526-b3be-eb3e4a20cf8f.png)
 
