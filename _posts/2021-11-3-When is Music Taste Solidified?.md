@@ -1,9 +1,9 @@
 ---
 layout: post
 title: When is Music Taste Solidified?
-subtitle: A critical look at Seth Stephens-Davidowitz's study
+subtitle: A critical review of Seth Stephens-Davidowitz's study
 gh-repo: daattali/beautiful-jekyll
-tags: [Blog, Does this mean I'm stuck liking MCR?]
+tags: [Blog, Music, Does this mean I'm stuck liking MCR]
 comments: true
 ---
 
