@@ -3,7 +3,7 @@ layout: post
 title: Digimon Lab
 subtitle: A brief explanation of my code
 gh-repo: daattali/beautiful-jekyll
-tags: [Ankha, why do socks have gender, Do duh-do dooo do do]
+tags: [lab, why do socks have gender, Ankha, Do duh-do dooo do do]
 comments: true
 ---
 
