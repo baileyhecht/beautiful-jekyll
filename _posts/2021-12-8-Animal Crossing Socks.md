@@ -3,7 +3,7 @@ layout: post
 title: Animal Crossing Lab
 subtitle: A brief explanation of my code
 gh-repo: daattali/beautiful-jekyll
-tags: [lab, why do socks have gender, Ankha, Do duh-do dooo do do]
+tags: [Lab, Why do socks have gender, Ankha, Do duh-do dooo do do]
 comments: true
 ---
 
