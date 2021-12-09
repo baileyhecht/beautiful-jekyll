@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digimon Lab
+title: Animal Crossing Lab
 subtitle: A brief explanation of my code
 gh-repo: daattali/beautiful-jekyll
 tags: [lab, why do socks have gender, Ankha, Do duh-do dooo do do]
