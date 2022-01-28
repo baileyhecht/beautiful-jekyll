@@ -35,5 +35,5 @@ The main limitation of this analysis is that it does not take into account the v
 	The other limitation I found with this data is that it often lists the same characters under various names due to typos and specificity (i.e. “Leela” also being written as “Leela (V.O.)”). While I attempted to clean up the data as much as possible, I’m sure there are still a few cases. 
   
 ## Conclusion
-Unfortunately, since I was not able to complete my analysis, I cannot draw any meaningful conclusion at the time beyond that I do not understand python nearly as well as I thought I did. :(
+Unfortunately, since I was not able to complete my analysis, I cannot draw any meaningful conclusion at the time beyond that I do not understand python nearly as well as I thought I did. 
 
